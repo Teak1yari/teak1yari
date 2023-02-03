@@ -12,9 +12,9 @@ Schedule: https://apps.rustore.ru/app/com.thirdTeam.schedule
 
 My last projects:
 
-React-Sneakers:
+React-Sneakers: https://react-sneakers-teak1yari.vercel.app/
 
-Health:
+Health: https://health-teak1yari.vercel.app/
 
 Skills: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Expo-Cli / Git / basic knowledge of OOP
 
@@ -26,7 +26,7 @@ Skills: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Ex
 
 Ссылка на мой профиль GitHub: https://github.com/Teak1yari
 
-Мои знания: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Expo-Cli / Git / Базовые знания ООП
+Мои знания: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Expo-Cli / Git / Mockapi Базовые знания ООП
 
 Ссылки для связи:
 
