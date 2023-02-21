@@ -14,8 +14,6 @@ My last projects:
 
 React-Sneakers: https://react-sneakers-teak1yari.vercel.app/
 
-Health: https://health-teak1yari.vercel.app/
-
 Skills: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Expo-Cli / Git / basic knowledge of OOP
 
 Здравствуйте, меня зовут Мацкевич Даниил, мне 19 лет. Я начинающий web-программист. Использую React/React Native. Стараюсь расширять свои знания в этой области, поэтому готов к любым обучениям.
