@@ -26,7 +26,7 @@ Skills: HTML / CSS / SCSS(SASS) / Javascript / NodeJS / Express / React / Axios 
 
 Ссылка на мой профиль GitHub: https://github.com/Teak1yari
 
-Мои знания: HTML / CSS / SCSS(SASS) / Javascript / React / Axios / React Native / Expo-Cli / Git / Material-UI / Базовые знания ООП
+Мои знания:  HTML / CSS / SCSS(SASS) / Javascript / NodeJS / Express / React / Axios / React Native / Expo-Cli / MongoDB / Git / Material-UI /
 
 Ссылки для связи:
 
